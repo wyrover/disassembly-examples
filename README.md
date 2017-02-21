@@ -7,10 +7,107 @@ disassembly examples
 
 - https://github.com/glmcdona/Process-Dump Process Dump
 - https://github.com/glmcdona/strings2 strings2: An improved strings extraction tool
-- https://github.com/lallousx86/AsmInVs ‘⁄ vs ÷––¥ asm ¥˙¬Î
+- https://github.com/lallousx86/AsmInVs Âú® vs ‰∏≠ÂÜô asm ‰ª£Á†Å
 - https://github.com/lallousx86/WEPExplorer Windows Events Providers Explorer
 - https://github.com/lallousx86/Libraries Native utility and wrapper libraries by Elias Bachaalany
 - https://github.com/glmcdona/meddle Framework for vulnerability fuzzing and reverse-engineering tool development
 - https://github.com/glmcdona/MALM MALM: Malware Monitor
 - https://github.com/glmcdona/FunctionHacker Tool for recording, filtering, and hacking function calls within applications or games. Useful for game hacking or malware analysis.
 
+- https://github.com/programa-stic/barf-project BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework
+- https://github.com/XiphosResearch/exploits Miscellaneous exploit code
+- https://github.com/Comsecuris/shannonRE Helpful scripts for various tasks performed during reverse engineering the Shannon Baseband with the goal to exploit the Samsung Galaxy S6
+- https://github.com/godaddy/procfilter A YARA-integrated process denial framework for Windows
+- https://github.com/libusb/libusb
+- https://github.com/GerHobbelt/pthread-win32
+- https://github.com/CodeBlueDev/D2Utility
+- https://github.com/DarthTon/Xenos Windows dll injector
+- https://github.com/fungosforks/icq-desktop
+- https://github.com/xcud/sysinternals-source
+- https://github.com/diegslva/BypassUAC
+- https://github.com/sinfocol/KeePassLogger
+- https://github.com/yuang1516/AES-Crypter-WIN32
+- https://github.com/LongSoft/CrScreenshotDxe UEFI DXE driver to take screenshots from GOP-compatible graphic consoles
+- https://github.com/hashcat/hashcat World's fastest and most advanced password recovery utility
+- https://github.com/JimBobSquarePants/ImageProcessor
+- https://github.com/blole/injectory command-line interface dll injector
+- https://github.com/codereversing/hekate Winsock inspection/filtering/modifying
+- https://github.com/BreakingMalware/PowerLoaderEx PowerLoaderEx - Advanced Code Injection Technique for x32 / x64
+- https://github.com/fancycode/MemoryModule Library to load a DLL from memory. 
+- https://github.com/wisk/medusa An open source interactive disassembler
+- https://github.com/google/google-drive-shell-extension
+- https://github.com/Joshf2k/RegistryMonitor
+- https://github.com/GDSSecurity/Windows-Exploit-Suggester
+- https://github.com/leechristensen/UnmanagedPowerShell
+- https://github.com/charlesw/tesseract
+- https://github.com/atlantis2013/Evasion-Tools     ÂèçË∞ÉËØï
+- https://github.com/Cn33liz/TpmInitUACBypass
+- https://github.com/hzeroo/Carberp
+- https://github.com/DarthTon/Blackbone
+- https://github.com/OpenSecurityResearch/dllinjector
+- https://github.com/matt-42/silicon
+- https://github.com/jalfd/utf.hpp
+- https://github.com/brock7/xdbg
+- https://github.com/jmacd/xdelta
+- https://github.com/google/guetzli
+- https://github.com/prsyahmi/BadMemory
+- https://github.com/prsyahmi/GpuRamDrive
+- https://github.com/dindinw/imdisk
+- https://github.com/arkenthera/electron-vibrancy
+- https://github.com/hasherezade/ViDi
+- https://github.com/BreakingMalwareResearch/atom-bombing
+- https://github.com/ckaiser/Lightscreen
+- https://github.com/keepassxreboot/keepassxc
+- https://github.com/kgretzky/obfusion
+- https://github.com/develbranch/TinyAntivirus
+- https://github.com/cztomczak/cefpython
+- https://github.com/codereversing/directx9hook
+- https://github.com/snowie2000/mactype
+- https://github.com/Kreogist/Mu
+- https://github.com/bittorrent/libutp
+- https://github.com/Eoinocal/Halite
+- https://github.com/scgywx/fooking
+- https://github.com/strobejb/HexEdit
+- https://github.com/daynix/UsbDk
+- https://github.com/tandasat/DrvLoader
+- https://github.com/azerg/PackerPE
+- https://github.com/islog/liblogicalaccess
+- https://github.com/mmozeiko/aes-finder
+- https://github.com/sysprogs/WinCDEmu
+- https://github.com/zer0fl4g/Nanomite
+- https://github.com/herumi/xbyak a JIT assembler for x86(IA-32)/x64(AMD64, x86-64) MMX/SSE/SSE2/SSE3/SSSE3/SSE4/FPU/AVX/AVX2/AVX-512 by C++ header
+- https://github.com/google/open-vcdiff
+- https://github.com/MailCore/mailcore2
+- https://github.com/BreakingMalware/PowerLoaderEx
+- https://github.com/LordNoteworthy/al-khaser
+- https://github.com/ScottSWu/windows-wlan-util
+- https://github.com/AlicanAkyol/sems ÂèçË∞ÉËØï
+- https://github.com/codereversing/runfromreg
+- https://github.com/codereversing/wow64syscall
+- https://github.com/rprichard/winpty
+- https://github.com/Ace17/mk_proxy_dll
+- https://github.com/steeve/dwmaxx2
+- https://github.com/shmuelyr/CaptainHook CaptainHook is x86/x64 hook environment
+- https://github.com/AndreyBazhan/DbgExt
+- https://github.com/alexbudmsft/dbgscript
+- https://github.com/after1990s/InjectSolution
+- https://github.com/sbobovyc/WinHookInject
+- https://github.com/mudlord/mupack
+- https://github.com/tandasat/win32_debugout/tree/master/win32_debugout
+- https://github.com/killvxk/WebbrowserLock
+- https://github.com/nettitude/SimplePELoader
+- https://github.com/nettitude/InlineFunctionHooking
+- https://github.com/nettitude/DLLInjection
+- https://github.com/georgenicolaou/HeavenInjector
+- https://github.com/wisaly/VisualPE
+- https://github.com/giantbranch/reLearnDataStruct
+- https://github.com/In7rud3R/WifiDump
+- https://github.com/hidd3ncod3s/runpedmp
+- https://github.com/blubtxt/DumpModule
+- https://github.com/hkhk366/Driver_Protection
+- https://github.com/matthall3531/MemoryLeakDetector
+- https://github.com/nccgroup/WindowsDACLEnumProject
+- https://github.com/wumb0/SimpleBackdoor
+- https://github.com/sweetsoftware/SimpleBackdoor
+- https://github.com/Ge0/PeTools
+- https://github.com/Ge0/ProcessMemoryDumper
